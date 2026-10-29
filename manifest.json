@@ -1,7 +1,7 @@
 {
-  "name": "Tempa - Health Tracker",
+  "name": "Tempa – hälsohistorik",
   "short_name": "Tempa",
-  "description": "Track your family health",
+  "description": "Håll koll på familjens hälsa",
   "start_url": "/tempa-pwa-test/?source=pwa",
   "scope": "/tempa-pwa-test/",
   "id": "/tempa-pwa-test/",
